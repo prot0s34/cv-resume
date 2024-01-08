@@ -1,0 +1,183 @@
+Nikita Maslakov
+DevOps / SR Engineer
+Antalya, Turkey
+
+
+Experience
+
+
+X5 Tech
+Site Reliability Engineer
+August 2023 - Present
+In my role on the platform team, I specialized in providing development and CI/
+CD process improvement services, with a focus on implementing DevOps and
+SRE practices. My contributions included:
+- Promote and facilitate the development of an Infrastructure as Code culture
+using tools such as Ansible, Terraform, Gitlab and ArgoCD.
+- Extensive experience with Linux systems, primarily Debian, ensuring optimal
+system performance and stability.
+- Transformed the provisioning process of Kubernetes clusters from bashbased setups to automated deployment using Ansible and Terraform.
+- Provisioned and maintained Kubernetes clusters on both virtual machines
+and bare metal environments using Ansible.
+- Implemented resource management using Terraform and IaC pattern.
+- Implemented ArgoCD for simplified and automated cluster post-bootstrap
+setup and application management.
+- Automated management of a self-hosted GitLab instance using Ansible,
+focusing on installation, updates and configuration.
+- Managed Nexus Repository/Proxy, serving thousands of clients with reliable
+and secure software artifact management.
+- Worked on improving observability using Opentelemery, Node-exporter,
+Prometheus, Grafana, Signoz.
+- Provided new capabilities for managing ML workloads by integrating bare
+metal GPU nodes into Kubernetes using Ansible and GPU-Operator.
+- Added some new self-hosted services for development teams, such as
+Excalidraw, TabbyML.
+Skills:
+- Kubernetes
+- Calico
+- ArgoCD
+- Ansible
+- Terraform
+- Gitlab
+- Unbound
+- Haproxy
+- Nexus
+- Prometheus
+- Grafana
+- PostgreSQL
+- Clickhouse
+- Signoz
+- GPU-Operator
+- Debian
+- Talos
+
+
+MTS Group
+DevOps Engineer
+November 2021 - July 2023 (1 year 9 months)
+Worked as part of a product team and provide full-circle DevOps support to
+developers, BA, QA, and support engineers.
+In my current role, I managed the build, deployment and maintenance of
+multiple microservice applications using Gitlab, Kubernetes, Docker, Kaniko
+and Istio.
+Implemented monitoring, tracing and alerting solutions using Grafana, ELK,
+Prometheus, Alertmanager, VictoriaMetrics and Jaeger.
+Developed infrastructure as Code using Gitlab, Helm and jsonnet.
+Managed databases and brokers including PostgreSQL, Aerospike and Kafka.
+Implemented secrets management for application using HC Vault.
+Wrote automation scripts in Golang, Python, and Bash.
+Assisted developers, BAs, QA, and support engineers with DevOps practices
+Skills:
+- Gitlab
+- Kubernetes
+- Istio
+- Helm
+- jsonnet
+- Grafana
+- Jaeger
+- Prometheus
+- Alertmanager
+- VictoriaMetrics
+- ELK/EFK stack
+- Docker
+- Kaniko
+- Jmeter
+- Pytest
+- Allure
+- SonarQube
+- Sentry
+- Nginx
+- PostgreSQL
+- Patroni
+- PGBouncer
+- Kafka
+- Aerospike
+- Vault
+- Golang
+- Python
+
+
+LLC MODI
+Head of Infrastructure Department
+December 2017 - September 2021 (3 years 10 months)
+Moscow, Russia
+Jan 2018 to Feb 2020 - Lead Infrastructure Engineer.
+Head of ServiceDesk support group.
+exp with ManageEngine ITSM.
+Infrastructure:
+ActiveDirectory, DFS, DNS, DCHP, Windows (VM and Workstations),
+PostgreSQL
+network (mikrotik/zyxel) administration.
+Project managment experience with 60+ new started retail stores (from
+license/provider agreement and hardware supplies to a fully completed object
+with IT systems).
+Feb 2020 to Sep 2021:
+Head of Infrastructure Departament.
+Administration:
+Hyper-V, Windows Server, ActiveDirectory, DFS, WSUS etc.
+VM with Windows Server, CentOS, Ubuntu Server, Docker.
+Workstations (Mac/Windows, 50+).
+Servers management automation (ansible).
+Network automation (mikrotiks/zyxel - ansible, templating, IaC(git)).
+-
+Monitoring:
+Zabbix & Grafana implemention.
+-
+ServiceDesk:
+Management of support engineers, organization and optimization of ITSM
+process & interaction, employees education.
+Management of problems, incidents, service requests based on
+ManageEngine SD.
+-
+Knowledge management:
+KB management in ManageEngine SD+.
+Implementation of wiki.js Knowledge Base using docker & git, organization of
+interaction processes with 1-2L Service Desk engineers.
+-
+Backup:
+Implementation and configuration of Veeam Backup & Replication, Veeam
+One.
+Preparation of the retention scheme, management of backup/DR process,
+implementation of the visualization of the backup statuses (Zabbix+Powershell
+scripts).
+-
+Security:
+Network and servers security incidents analysis.
+Key Management - implementation of bitwarden_rs using docker, organization
+of interaction of 1-2L ServiceDesk engineers with key-management system.
+implementation of Eset ESMC.
+-
+Retail shops support (~75 units ):
+Automate administration of network devices, servers and workstations,
+management of IT support processes, 
+Full cycle management of various retail infrastructure projects, processes of
+interaction with contractors, suppliers etc.
+
+Rostelecom Data Centres
+Service Desk Lead Engineer
+March 2017 - January 2018 (11 months)
+Moscow
+Lead ServiceDesk engineer
+experience with Service Desk process management (ITIL/ITSM, configuration
+OTRS ticketing system, configuration SharePoint ServiceDesk web-portal,
+documentation, instructions, plans and Visio-schemes, etc)
+
+SAFEDATA LLC
+Service Desk Engineer
+August 2015 - March 2017 (1 year 8 months)
+Moscow
+1st line of technical support (b2b SaaS virtualization services) in the datacenter
+virtualization departament (diag experience with VMware vCloud, vCenter,
+vDirector, VDI, ESXi, Veeam Backup )
+Service desk support - experience with OTRS, SharePoint, Zabbix, Grafana,
+ActiveDirectory, network diag, etc
+
+NVision Group
+Support Engineer
+April 2015 - August 2015 (5 months)
+Moscow, Russia
+
+Education
+Moscow University of Telecom and Informatics
+Вachelor, 210300 spec. Radio Tehnical Systems/Communication Systems and
+Networks · (2012 - 2017
